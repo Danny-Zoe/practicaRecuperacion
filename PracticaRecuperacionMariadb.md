@@ -1,4 +1,4 @@
-## TECNOLOGICO NACIONAL DE MEXICO
+# TECNOLOGICO NACIONAL DE MEXICO
 ## INSTITUTO TECNOLOGICO DE MILPA ALTA II
 ### **Práctica 1: Recuperación de una base de datos en MariaDB**
 **Gonzalez Garcia Daniela Zoe**
